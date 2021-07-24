@@ -2,12 +2,12 @@
 
 ## Go
 
-- Go with Versions by Russ Cox [video_link](https://www.youtube.com/watch?v=F8nrpe0XWRg)
+1. Go with Versions by Russ Cox [video_link](https://www.youtube.com/watch?v=F8nrpe0XWRg)
 
 ## Cloud Architecture
 
-- No, we don’t use Kubernetes [article_link](https://ably.com/blog/no-we-dont-use-kubernetes)
+1. No, we don’t use Kubernetes [article_link](https://ably.com/blog/no-we-dont-use-kubernetes)
 
 ## Non Tech
 
-- Open Decision-Making [article_link](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
+1. Open Decision-Making [article_link](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
