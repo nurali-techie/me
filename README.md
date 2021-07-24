@@ -8,3 +8,6 @@
 
 - No, we don’t use Kubernetes [article_link](https://ably.com/blog/no-we-dont-use-kubernetes)
 
+## Non Tech
+
+- Open Decision-Making [article_link](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
