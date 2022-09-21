@@ -11,3 +11,11 @@
 ## Non Tech
 
 1. Open Decision-Making [article_link](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
+
+## FinTech
+
+1. FinStack [artical_link](https://kintsugiad.medium.com/finstack-fintech-startup-landscape-q4-2022-d23119ed1cf0)
+
+![fin_stack_v1.png](./assets/fin_stack_v1.png)
+
+
